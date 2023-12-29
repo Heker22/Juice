@@ -1,0 +1,33 @@
+:root{
+--title-color:#779611;
+--text-color:#000000;
+--background-color:#F9F9F9;
+}
+body{
+background-color: var(--background-color);
+box-sizing: border-box;
+margin: 0 auto;
+color: var(--text-color);
+}
+.container{
+width: 1750px;
+padding: 0 15px;
+margin: 0;
+}
+ul{
+list-style: none;
+margin: 0;
+padding: 0;
+}
+a{
+text-decoration: none;
+}
+h1, h2, h3, h4, h5, h6, p{
+padding: 0;
+margin: 0;
+}
+.header{
+
+
+    
+}
