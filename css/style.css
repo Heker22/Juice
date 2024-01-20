@@ -7,8 +7,6 @@
 
 body {
     background-color: var(--background-color);
-    box-sizing: border-box;
-    margin: 0 auto;
     color: var(--text-color);
     font-family: 'Montserrat', sans-serif;
 }
@@ -21,24 +19,13 @@ body {
 
 ul {
     list-style: none;
-    margin: 0;
-    padding: 0;
 }
 
 a {
     text-decoration: none;
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-p {
-    padding: 0;
-    margin: 0;
-}
+
 
 .header {
     padding-top: 41px;
