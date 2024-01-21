@@ -8,7 +8,6 @@
 body {
     background-color: var(--background-color);
     color: var(--text-color);
-    font-family: 'Montserrat', sans-serif;
 }
 
 .container {
@@ -17,13 +16,8 @@ body {
     margin: 0 auto;
 }
 
-ul {
-    list-style: none;
-}
 
-a {
-    text-decoration: none;
-}
+
 
 
 
