@@ -1,0 +1,45 @@
+.subscription {
+    padding-bottom: 80px;
+    border-bottom: 2px solid $title-color;
+    padding-bottom: 80px;
+}
+
+.sub-title {
+    font-size: 36px;
+    font-weight: 600;
+    font-family: 'Exo 2', sans-serif;
+    margin-bottom: 35px;
+    color: $title-color;
+}
+
+.sub-text {
+    font-size: 20px;
+    font-weight: 400;
+    margin-bottom: 50px;
+}
+
+.sub-list {
+    display: flex;
+    justify-content: space-between;
+}
+
+.sub-item {
+    width: 560px;
+}
+
+.sub-item-wrap {
+    padding-top: 35px;
+    padding-left: 60px;
+}
+
+.sub-subtitle {
+    font-size: 24px;
+    font-weight: 400;
+    margin-bottom: 15px;
+    color: $title-color;
+}
+
+.sub-text {
+    font-size: 20px;
+    font-weight: 400;
+}

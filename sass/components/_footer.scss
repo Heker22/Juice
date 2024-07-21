@@ -1,0 +1,20 @@
+.footer-wrap {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+.footer-item {
+    margin-bottom: 20px;
+}
+
+.footer-link {
+    font-size: 20px;
+    font-weight: 400;
+    color: $title-color;
+}
+
+.footer-link:hover {
+    color: $title-color;
+}
