@@ -105,89 +105,75 @@ body {
   padding-top: 80px;
   padding-bottom: 80px;
 }
-
-.shop-title {
+.shop__title {
   font-size: 36px;
   font-weight: 600;
   font-family: "Exo 2", sans-serif;
   color: #779611;
   margin-bottom: 35px;
 }
-
-.shop-text {
+.shop__text {
   font-size: 20px;
   font-weight: 400;
   margin-bottom: 50px;
 }
-
-.shop-list {
+.shop__list {
   display: flex;
   justify-content: space-between;
 }
-
-.shop-item {
+.shop__item {
   width: 560px;
 }
-
-.shop-item-wrap {
+.shop__item-wrap {
   padding-top: 35px;
   padding-left: 60px;
 }
-
-.shop-subtitle {
+.shop__subtitle {
   color: #779611;
   font-size: 24px;
   font-weight: 400;
   margin-bottom: 15px;
 }
-
-.shop-price {
+.shop__price {
   font-size: 20px;
   font-weight: 400;
 }
 
-.subscription {
+.sub {
   padding-bottom: 80px;
   border-bottom: 2px solid #779611;
   padding-bottom: 80px;
 }
-
-.sub-title {
+.sub__title {
   font-size: 36px;
   font-weight: 600;
   font-family: "Exo 2", sans-serif;
   margin-bottom: 35px;
   color: #779611;
 }
-
-.sub-text {
+.sub__text {
   font-size: 20px;
   font-weight: 400;
   margin-bottom: 50px;
 }
-
-.sub-list {
+.sub__list {
   display: flex;
   justify-content: space-between;
 }
-
-.sub-item {
+.sub__item {
   width: 560px;
 }
-
-.sub-item-wrap {
+.sub__item-wrap {
   padding-top: 35px;
   padding-left: 60px;
 }
-
-.sub-subtitle {
+.sub__subtitle {
   font-size: 24px;
   font-weight: 400;
   margin-bottom: 15px;
   color: #779611;
 }
-
-.sub-text {
+.sub__text {
   font-size: 20px;
   font-weight: 400;
 }
