@@ -38,64 +38,54 @@ body {
   padding-bottom: 41px;
   border-bottom: 2px solid #779611;
 }
-
-.logo {
+.header__logo {
   font-size: 32px;
   font-weight: 600;
   font-family: "Exo 2", sans-serif;
   color: #779611;
   margin-right: 120px;
 }
-
-.nav-list {
+.header__nav-list {
   display: flex;
 }
-
-.nav-item {
+.header__nav-item {
   margin-right: 80px;
   font-size: 20px;
   font-weight: 500;
 }
-
-.header-wrap {
+.header__wrap {
   display: flex;
   align-items: center;
 }
-
-.nav-link {
+.header__nav-link {
   color: #707070;
   cursor: pointer;
 }
-
-.nav-link:hover {
+.header__nav-link:hover {
   color: #779611;
 }
 
 .hero {
   border-bottom: 2px solid #779611;
 }
-
-.hero-wrap {
+.hero__wrap {
   display: flex;
   justify-content: space-between;
   align-items: center;
 }
-
-.hero-title {
+.hero__title {
   font-size: 48px;
   font-weight: 600;
   font-family: "Exo 2", sans-serif;
   margin-bottom: 50px;
   color: #779611;
 }
-
-.hero-text {
+.hero__text {
   font-size: 24px;
   font-weight: 400;
   margin-bottom: 50px;
 }
-
-.hero-btn {
+.hero__btn {
   padding: 17px 80px;
   border-radius: 40px;
   border: 1px solid #779611;
@@ -105,8 +95,7 @@ body {
   cursor: pointer;
   font-weight: 400;
 }
-
-.hero-btn:hover {
+.hero__btn:hover {
   color: #779611;
   background-color: #F9F9F9;
   border: 1px solid #779611;

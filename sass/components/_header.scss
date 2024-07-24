@@ -2,36 +2,37 @@
     padding-top: 41px;
     padding-bottom: 41px;
     border-bottom: 2px solid $title-color;
-}
 
-.logo {
-    font-size: 32px;
-    font-weight: 600;
-    font-family: 'Exo 2', sans-serif;
-    color: $title-color;
-    margin-right: 120px;
-}
 
-.nav-list {
-    display: flex;
-}
+    &__logo {
+        font-size: 32px;
+        font-weight: 600;
+        font-family: 'Exo 2', sans-serif;
+        color: $title-color;
+        margin-right: 120px;
+    }
 
-.nav-item {
-    margin-right: 80px;
-    font-size: 20px;
-    font-weight: 500;
-}
+    &__nav-list {
+        display: flex;
+    }
 
-.header-wrap {
-    display: flex;
-    align-items: center;
-}
+    &__nav-item {
+        margin-right: 80px;
+        font-size: 20px;
+        font-weight: 500;
+    }
 
-.nav-link {
-    color: $head-text;
-    cursor: pointer;
-}
+    &__wrap {
+        display: flex;
+        align-items: center;
+    }
 
-.nav-link:hover {
-    color: $title-color;
+    &__nav-link {
+        color: $head-text;
+        cursor: pointer;
+
+        &:hover {
+            color: $title-color;
+        }
+    }
 }
