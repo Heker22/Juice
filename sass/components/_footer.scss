@@ -5,16 +5,17 @@
     padding-bottom: 60px;
 }
 
-.footer-item {
+&_item {
     margin-bottom: 20px;
 }
 
-.footer-link {
+&_link {
     font-size: 20px;
     font-weight: 400;
     color: $title-color;
-}
 
-.footer-link:hover {
+    &:hover {
     color: $title-color;
 }
+}
+

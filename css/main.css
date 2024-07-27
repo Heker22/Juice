@@ -178,35 +178,31 @@ body {
   font-weight: 400;
 }
 
-.about {
+.abt {
   padding-top: 114px;
   padding-bottom: 114px;
   border-bottom: 2px solid #779611;
 }
-
-.about-wrap {
+.abt__wrap {
   display: flex;
   align-items: center;
   justify-content: space-between;
 }
-
-.abt-subtitle {
+.abt__subtitle {
   font-size: 24px;
   font-weight: 500;
   font-family: "Exo 2", sans-serif;
   margin-bottom: 15px;
   color: #779611;
 }
-
-.abt-title {
+.abt__title {
   font-size: 48px;
   font-weight: 600;
   color: #779611;
   font-family: "Exo 2", sans-serif;
   margin-bottom: 35px;
 }
-
-.abt-text {
+.abt__text {
   font-size: 20px;
   font-weight: 400;
 }
@@ -217,17 +213,14 @@ body {
   padding-top: 60px;
   padding-bottom: 60px;
 }
-
-.footer-item {
+.footer-wrap__item {
   margin-bottom: 20px;
 }
-
-.footer-link {
+.footer-wrap__link {
   font-size: 20px;
   font-weight: 400;
   color: #779611;
 }
-
-.footer-link:hover {
+.footer-wrap__link:hover {
   color: #779611;
 }/*# sourceMappingURL=main.css.map */
