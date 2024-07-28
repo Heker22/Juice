@@ -1,21 +1,27 @@
-.footer-wrap {
-    display: flex;
-    justify-content: space-between;
-    padding-top: 60px;
-    padding-bottom: 60px;
-}
+.footer {
 
-&_item {
-    margin-bottom: 20px;
-}
 
-&_link {
-    font-size: 20px;
-    font-weight: 400;
-    color: $title-color;
+    &__wrap {
+        display: flex;
+        justify-content: space-between;
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
 
-    &:hover {
-    color: $title-color;
-}
-}
+    &__item {
+        margin-bottom: 20px;
+    }
 
+    &__link {
+        font-size: 20px;
+        font-weight: 400;
+        color: $text-color;
+
+        &:hover {
+            color: $title-color;
+        }
+
+
+    }
+
+}

@@ -207,20 +207,20 @@ body {
   font-weight: 400;
 }
 
-.footer-wrap {
+.footer__wrap {
   display: flex;
   justify-content: space-between;
   padding-top: 60px;
   padding-bottom: 60px;
 }
-.footer-wrap__item {
+.footer__item {
   margin-bottom: 20px;
 }
-.footer-wrap__link {
+.footer__link {
   font-size: 20px;
   font-weight: 400;
-  color: #779611;
+  color: #000000;
 }
-.footer-wrap__link:hover {
+.footer__link:hover {
   color: #779611;
 }/*# sourceMappingURL=main.css.map */
